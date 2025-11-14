@@ -1,0 +1,19 @@
+# ignore files from python project
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+*.egg-info/
+*.egg
+dist/
+build/
+.eggs/
+*.manifest
+*.spec
+pip-wheel-metadata/
+.pytest_cache/
+.mypy_cache/
+
+# ignore virtual environment folder
+.venv/
